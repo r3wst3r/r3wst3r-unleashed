@@ -4,7 +4,7 @@
 </a>
 </h3>
 
-### Welcome to Flipper Zero Unleashed Firmware repo! 
+### Welcome to [r3wst3r's fork of] Flipper Zero Unleashed Firmware repo! 
 Our goal is to make any features possible in this device without any limitations! 
 
 Please help us implement emulation for all subghz dynamic (rolling code) protocols!
